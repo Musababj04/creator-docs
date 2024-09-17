@@ -1,4 +1,5 @@
----
+---legend  game 
+5 box
 title: Roblox Studio Setup
 description: Explains how to install Roblox Studio on your system.
 ---
